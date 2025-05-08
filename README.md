@@ -1,6 +1,8 @@
 # exporting-wordpress
 Some notes about exporting a wordpress site as a static site and the issues I ran into
 
+First thing is - if you are running into issues during development....TURN OFF THE PLUGINS!!! It will save you SOO MUCH PAIN!!!
+
 ## Simply Static Plugin
 
 Once you are ready to export your site, install the simply static plugin for wordpress.
